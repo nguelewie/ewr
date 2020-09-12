@@ -10,9 +10,9 @@
     <relativePath>../pom.xml</relativePath>
   </parent>
 
-  <artifactId>CNT</artifactId>
-  <packaging>CNT</packaging>
-  <name>CNT</name>
+  <artifactId>cnt</artifactId>
+  <packaging>war</packaging>
+  <name>cnt</name>
   <description>cnt.</description>
 
   <build>
