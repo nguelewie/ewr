@@ -4,3 +4,9 @@
 <h1>this line is to check that our pipeline is automated </h1>
 <h1>It is automated!</h1>
 <h1> Docker integrated and images succesfully pushed</h1>
+<h1> The whole DevOps pipeline is completely and automated</h1>
+<h1> Good job to me for this awesome practice</h1>
+
+
+<h2> Regards,</h2>
+<h2> Zidane.</h2>
